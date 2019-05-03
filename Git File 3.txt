@@ -1,1 +1,1 @@
-File 3 contents
+The contents of file 3
