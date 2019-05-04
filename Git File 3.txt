@@ -1,4 +1,2 @@
 Contents of File 3
-Files 1 and 2 have been changed
-10 more commits and a merge to go
-
+These files have been used to allow me to add commits in an effort to demonstrate my ability and understanding of version control
