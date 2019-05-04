@@ -1,2 +1,3 @@
 Contents of Git File 2
 Working hard
+Hardly working
