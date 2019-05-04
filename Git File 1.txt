@@ -1,2 +1,1 @@
-Contents of file 1
-This is a line
+Contents of File 1
