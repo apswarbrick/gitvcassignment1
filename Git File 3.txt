@@ -1,1 +1,3 @@
 The contents of file 3
+hi
+hi
