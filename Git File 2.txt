@@ -1,2 +1,2 @@
 Contents of Git File 2
-500 - Internal Server Error
+This is another file used for the example of version control
