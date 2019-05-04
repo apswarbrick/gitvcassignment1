@@ -1,1 +1,2 @@
 Contents of Git File 2
+500 - Internal Server Error
