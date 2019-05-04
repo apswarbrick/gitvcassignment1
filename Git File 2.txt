@@ -1,2 +1,3 @@
 Contents of Git File 2
 This is another file used for the example of version control
+sometimes git can be a pain and crash for a bit. This is just what has happened here.
