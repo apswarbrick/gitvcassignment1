@@ -1,3 +1,1 @@
-The contents of file 3
-hi
-hi
+Contents of File 3
