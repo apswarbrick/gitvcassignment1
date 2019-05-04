@@ -1,3 +1,4 @@
 Contents of File 3
 Arbitrary error
 Files 1 and 2 have been changed
+10 more commits and a merge to go
