@@ -1,3 +1,2 @@
 Contents of Git File 2
-This is another file used for the example of version control
-sometimes git can be a pain and crash for a bit. This is just what has happened here.
+These files have been used to allow me to add commits in an effort to demonstrate my ability and understanding of version control
